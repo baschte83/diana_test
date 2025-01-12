@@ -1,3 +1,3 @@
 # diana_test
 
-Wie geht es dir?
+Hier kommen nur allgemeine Informationen rein!
